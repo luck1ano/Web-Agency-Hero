@@ -14,13 +14,26 @@ div {
 h1 {
     font-size: 50px;
     font-weight: 800;
+    margin-top: 50px;
+    margin-bottom: -5px
 }
 
 p {
     font-size: 25px;
+    font-weight: 500;
 }
 
 span {
-    border-bottom: 5px solid #0ea5e9
+    border-bottom: 5px solid #0ea5e9;
 }
 
+button {
+    color: white;
+    background-color: #0ea5e9;
+    border: none;
+    font-size: 23px;
+    font-weight: 500;
+    padding: 20px 38px;
+    font-weight: 700
+
+}
